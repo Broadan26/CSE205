@@ -1,6 +1,6 @@
 // Assignment #: 1
-//         Name: Brandon Barrett
-//    StudentID: 1203873172
+//         Name: Brandon
+//    StudentID: 
 //      Lecture: T/TH 4:30pm-5:45pm
 //  Description: (1)This class reads an integer from a keyboard and prints it out
 //               along with other messages.
